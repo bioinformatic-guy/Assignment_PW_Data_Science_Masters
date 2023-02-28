@@ -15,3 +15,5 @@ All Assignment DS Course
 12. 18th Feb Assignment (Flask)
 13. 20th Feb Assignment (GET & POST)
 14. 21st Feb Assignment (Web Scraping)
+15. 22nd Feb Assignment (Pandas Basic)
+
