@@ -14,3 +14,4 @@ All Assignment DS Course
 11. 17th Feb Assignment (MongoDB)
 12. 18th Feb Assignment (Flask)
 13. 20th Feb Assignment (GET & POST)
+14. 21st Feb Assignment (Web Scraping)
