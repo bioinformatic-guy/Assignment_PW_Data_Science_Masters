@@ -9,7 +9,7 @@ All Assignment DS Course
 6. 30th Jan Assignment
 7. 6th Feb Assignment
 8. 7th Feb Assignment
-9. 16th Feb Assignment
+9. 16th Feb Assignment (SQL & NOSQL)
 10. 18th Fen Assignment (API)
 11. 17th Feb Assignment (MongoDB)
 12. 18th Feb Assignment (Flask)
